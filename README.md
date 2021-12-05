@@ -1,2 +1,2 @@
-# CS50
-edX CS50 problemset
+CS50x
+Final Project
