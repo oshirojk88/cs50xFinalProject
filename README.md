@@ -1,2 +1,3 @@
-CS50x
-Final Project
+CS50x 2021
+Final Project 
+Jeff Oshiro
