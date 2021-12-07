@@ -1,6 +1,7 @@
 MANIFEST.in
 README.md
 setup.py
+startFlaskr.ps1
 flaskr/__init__.py
 flaskr/auth.py
 flaskr/blog.py
@@ -19,3 +20,4 @@ flaskr/templates/auth/register.html
 flaskr/templates/blog/create.html
 flaskr/templates/blog/index.html
 flaskr/templates/blog/update.html
+instance/flaskr.sqlite
